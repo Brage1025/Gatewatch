@@ -1,0 +1,5 @@
+White Mana: color: #f9f6ef, 
+Green Mana: color: #235741
+Blue Mana: color: #0074b1
+Black Mana: color: #242418
+Red Mana: color: #de3731

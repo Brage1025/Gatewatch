@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  text-align: center;
+  background: linear-gradient(69deg, #242418, #000000);
+}
+
+h1 {
+  margin-top: 20%;
+  color: #f9f6ef;
+}
+
+h2 {
+  color: #f9f6ef;
+  line-height: 2;
+  margin-bottom: auto;
+}
+
+/* Button is an attemt to copy X.com's desing */
+
+button {
+  align-items: center;
+  margin-top: 35px;
+  background: linear-gradient(69deg, #242418, #000000); /* I like gradient */
+  color: #f9f6ef;
+  border: solid, 4px;
+  border-radius: 9999px; /* I just spemmed it to mex it out, Should be a MAXpx that did the same */
+  padding: 10px 20px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
