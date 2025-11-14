@@ -32,6 +32,8 @@ My god, don't start with <div></div>
 
 The cat cam is the highlight of any coding lecture.
 
+*YT = YouTube.com
+
 I'd to get some concrete feedback
 
 The restingplace project is just something I found online and tried to copy. How and
